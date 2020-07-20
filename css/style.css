@@ -122,7 +122,7 @@ p{
 	width: 1200px;
 	height: 60px;
 	margin: 20px auto;
-	margin-top: 60px;
+	margin-top: 70px;
 	background-color: #FF4A4A;
 	border-radius: 10px 10px 10px 10px;
 	-moz-border-radius: 10px 10px 10px 10px;
@@ -215,59 +215,171 @@ p{
 	margin: 20px auto;
 }
 
+@media (max-width: 1250px)  {
+	.faq{
+		width: 1100px;
+		height: 70px;
+	}
+	.container{
+		width: 1100px;
+		height: 70px;
+	}
+
+	.container2{
+		width: 1100px;
+		height: 70px;
+	}
+}
+
+@media (max-width: 1140px)  {
+	.faq{
+		width: 1000px;
+		height: 70px;
+	}
+
+	.container{
+		width: 1000px;
+		height: 70px;
+	}
+
+	.container2{
+		width: 1000px;
+		height: 70px;
+	}
+}
+
+@media (max-width: 1050px)  {
+	.faq{
+		width: 900px;
+		height: 70px;
+	}
+	.container{
+		width: 900px;
+		height: 70px;
+	}
+
+	.container2{
+		width: 900px;
+		height: 70px;
+	}
+}
+
+@media (max-width: 950px)  {
+	.faq{
+		width: 800px;
+		height: 70px;
+	}
+	.container{
+		width: 800px;
+		height: 70px;
+	}
+
+	.container2{
+		width: 800px;
+		height: 70px;
+	}
+}
+
+@media (max-width: 900px)  {
+	.faq{
+		width: 700px;
+		height: 70px;
+	}
+	.container{
+		width: 700px;
+		height: 70px;
+	}
+
+	.container2{
+		width: 700px;
+		height: 70px;
+	}
+}
+
+@media (max-width: 850px)  {
+	.faq{
+		width: 400px;
+		height: 100px;
+	}
+	.container{
+		width: 400px;
+		height: 200px;
+
+	}
+	.container2{
+		width: 400px;
+		height: 100px;
+
+	}
+}
+
+@media (max-width: 500px)  {
+	.button{
+		font-size: 15px;
+		width: 50px;
+		left: 4%;
+	}
+	.button2{
+		font-size: 15px;
+		width: 50px;
+		right: 4%;
+	}
+
+	.faq{
+		width: 400px;
+		height: 100px;
+	}
+	.container{
+		width: 400px;
+		height: 200px;
+	}
+
+	.container2{
+		width: 400px;
+		height: 100px;
+	}
+}
+
 
 @media only screen and (max-width: 450px){
-
-
-	
 	.cont{
 		font-size: 40px;
 	}
-
 	.home{
 		width: 1100px;
 		top:100%;
 		padding-bottom: 10%;
 	}
-
 	a{
 		font-size: 45px;
 	}
-	
 	h1{
 		font-size: 80px;
 	}
 	
-
 	.button{
 
 		font-size: 50px;
 		width: 280px;
 		right: 35%;
 	}
-
 	.button2{
 		font-size: 50px;
 		width: 280px;
 		left: 35%;
 	}	
 
-
 	p{
 		font-size: 40px;
 		text-align: center;
 	}
-
-
 	.active{
 		font-size: 45px;
 	}
-
 	.fff2{
 		font-size: 50px;
 		text-align: center;
 	}
-
 	.container{
 		display: flex;
 		align-items: center;
@@ -278,7 +390,6 @@ p{
 		margin-left: 110px
 
 	}
-
 	.container2{
 
 		display: flex;
@@ -292,7 +403,6 @@ p{
 		margin-left: 110px;
 		
 	}
-
 	.faq{
 		display: flex;
 		align-items: center;
