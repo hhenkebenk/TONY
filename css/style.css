@@ -189,7 +189,7 @@ p{
 }
 
 
-@media only screen and (max-width: 700px){
+@media only screen and (max-width: 360px){
 
 
 
@@ -271,13 +271,424 @@ p{
 		right: 0;
 		top:30%;
 		}
-
-
-
 }
 
+@media only screen and (max-width: 441px){
+
+
+
+	.home{
+		width: 1100px;
+		top:100%;
+		padding-bottom: 10%;
+	}
+
+	a{
+		font-size: 40px;
+	}
+	
+	h1{
+		font-size: 100px;
+	}
+	
+
+	.button{
+
+		font-size: 100px;
+		width: 390px;
+		right: 44%;
+	}
+
+	.button2{
+		font-size: 100px;
+		width: 390px;
+		left: 44%;
+	}	
+
+
+	p{
+		font-size: 40px;
+		text-align: center;
+	}
+
+
+	.active{
+		font-size: 40px;
+	}
+
+	.fff2{
+		font-size: 60px;
+		text-align: center;
+	}
+
+	.container{
+		display: flex;
+		align-items: center;
+		width: 1100px;
+		height: 200px;
+		margin: 40px -5px;
+	}
+
+	.container2{
+
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 1100px;
+		height: 200px;
+		margin: 20px 0px;
+
+		margin-top: 10%;
+		
+	}
+
+	.faq{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 1100px;
+		height: 200px;
+		margin: 20px auto;
+
+		position: absolute;
+		left: 0;
+		right: 0;
+		top:30%;
+		}
 }
 
+@media only screen and (max-width: 375px){
 
 
 
+	.home{
+		width: 1100px;
+		top:100%;
+		padding-bottom: 10%;
+	}
+
+	a{
+		font-size: 40px;
+	}
+	
+	h1{
+		font-size: 100px;
+	}
+	
+
+	.button{
+
+		font-size: 100px;
+		width: 390px;
+		right: 44%;
+	}
+
+	.button2{
+		font-size: 100px;
+		width: 390px;
+		left: 44%;
+	}	
+
+
+	p{
+		font-size: 40px;
+		text-align: center;
+	}
+
+
+	.active{
+		font-size: 40px;
+	}
+
+	.fff2{
+		font-size: 60px;
+		text-align: center;
+	}
+
+	.container{
+		display: flex;
+		align-items: center;
+		width: 1100px;
+		height: 200px;
+		margin: 40px -5px;
+	}
+
+	.container2{
+
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 1100px;
+		height: 200px;
+		margin: 20px 0px;
+
+		margin-top: 10%;
+		
+	}
+
+	.faq{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 1100px;
+		height: 200px;
+		margin: 20px auto;
+
+		position: absolute;
+		left: 0;
+		right: 0;
+		top:30%;
+		}
+}
+
+@media only screen and (max-width: 414px){
+
+
+
+	.home{
+		width: 1100px;
+		top:100%;
+		padding-bottom: 10%;
+	}
+
+	a{
+		font-size: 40px;
+	}
+	
+	h1{
+		font-size: 100px;
+	}
+	
+
+	.button{
+
+		font-size: 100px;
+		width: 390px;
+		right: 44%;
+	}
+
+	.button2{
+		font-size: 100px;
+		width: 390px;
+		left: 44%;
+	}	
+
+
+	p{
+		font-size: 40px;
+		text-align: center;
+	}
+
+
+	.active{
+		font-size: 40px;
+	}
+
+	.fff2{
+		font-size: 60px;
+		text-align: center;
+	}
+
+	.container{
+		display: flex;
+		align-items: center;
+		width: 1100px;
+		height: 200px;
+		margin: 40px -5px;
+	}
+
+	.container2{
+
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 1100px;
+		height: 200px;
+		margin: 20px 0px;
+
+		margin-top: 10%;
+		
+	}
+
+	.faq{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 1100px;
+		height: 200px;
+		margin: 20px auto;
+
+		position: absolute;
+		left: 0;
+		right: 0;
+		top:30%;
+		}
+}
+
+@media only screen and (max-width: 375px){
+
+
+
+	.home{
+		width: 1100px;
+		top:100%;
+		padding-bottom: 10%;
+	}
+
+	a{
+		font-size: 40px;
+	}
+	
+	h1{
+		font-size: 100px;
+	}
+	
+
+	.button{
+
+		font-size: 100px;
+		width: 390px;
+		right: 44%;
+	}
+
+	.button2{
+		font-size: 100px;
+		width: 390px;
+		left: 44%;
+	}	
+
+
+	p{
+		font-size: 40px;
+		text-align: center;
+	}
+
+
+	.active{
+		font-size: 40px;
+	}
+
+	.fff2{
+		font-size: 60px;
+		text-align: center;
+	}
+
+	.container{
+		display: flex;
+		align-items: center;
+		width: 1100px;
+		height: 200px;
+		margin: 40px -5px;
+	}
+
+	.container2{
+
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 1100px;
+		height: 200px;
+		margin: 20px 0px;
+
+		margin-top: 10%;
+		
+	}
+
+	.faq{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 1100px;
+		height: 200px;
+		margin: 20px auto;
+
+		position: absolute;
+		left: 0;
+		right: 0;
+		top:30%;
+		}
+}
+
+@media only screen and (max-width: 450px){
+
+
+
+	.home{
+		width: 1100px;
+		top:100%;
+		padding-bottom: 10%;
+	}
+
+	a{
+		font-size: 40px;
+	}
+	
+	h1{
+		font-size: 100px;
+	}
+	
+
+	.button{
+
+		font-size: 100px;
+		width: 390px;
+		right: 44%;
+	}
+
+	.button2{
+		font-size: 100px;
+		width: 390px;
+		left: 44%;
+	}	
+
+
+	p{
+		font-size: 40px;
+		text-align: center;
+	}
+
+
+	.active{
+		font-size: 40px;
+	}
+
+	.fff2{
+		font-size: 60px;
+		text-align: center;
+	}
+
+	.container{
+		display: flex;
+		align-items: center;
+		width: 1100px;
+		height: 200px;
+		margin: 40px -5px;
+	}
+
+	.container2{
+
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 1100px;
+		height: 200px;
+		margin: 20px 0px;
+
+		margin-top: 10%;
+		
+	}
+
+	.faq{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 1100px;
+		height: 200px;
+		margin: 20px auto;
+
+		position: absolute;
+		left: 0;
+		right: 0;
+		top:30%;
+		}
+}
